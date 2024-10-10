@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
+  m_Name: UI 03 - Game View
+  m_EditorClassIdentifier: 
+  Title:
+    m_Untranslated: Game View
+  m_Paragraphs:
+    m_Items:
+    - m_Type: 6
+      Title:
+        m_Untranslated: 
+      Text:
+        m_Untranslated: 
+      m_Tutorial: {fileID: 0}
+      m_Image: {fileID: 0}
+      m_Video: {fileID: 0}
+      m_CriteriaCompletion: 0
+      m_Criteria:
+        m_Items: []
+      m_MaskingSettings:
+        m_MaskingEnabled: 1
+        m_UnmaskedViews:
+        - m_SelectorType: 1
+          m_ViewType:
+            m_TypeName: 
+          m_EditorWindowType:
+            m_TypeName: UnityEditor.GameView, UnityEditor.CoreModule, Version=0.0.0.0,
+              Culture=neutral, PublicKeyToken=null
+          m_AlternateEditorWindowTypes:
+            m_Items: []
+          m_MaskType: 0
+          m_MaskSizeModifier: 0
+          m_UnmaskedControls: []
+      m_Summary: 
+      m_Description: 
+      m_InstructionBoxTitle: 
+      m_InstructionText: 
+      m_TutorialButtonText: 
+    - m_Type: 0
+      Title:
+        m_Untranslated: Page title
+      Text:
+        m_Untranslated: "<b>The Unity Game View</b> is like the screen where you
+          play and test your game! Imagine you're testing a video game you made,
+          and you want to see exactly what it looks like when someone else plays
+          it. The Game View shows you how your game will appear when it\u2019s ready
+          to play.\n\n<b>Let's make it fun and easy to understand:</b>\n\n- <b>Play
+          the Game:</b> The Game View is where you press the \"play\" button to see
+          your game in action. It's like turning on your gaming console and seeing
+          your game characters move and do what you programmed them to do.\n\n- <b>Player\u2019s
+          View:</b> This view shows you the game from the player\u2019s perspective.
+          So, whatever the player will see when they play your game, that\u2019s
+          what you see in the Game View. It's like looking through the eyes of your
+          character!\n\n- <b>Test Your Game:</b> The Game View is perfect for testing
+          your game. You can try out your levels, see if the characters jump correctly,
+          check if the enemies move the way you want, and find out if your game is
+          fun to play!\n\n- <b>Fixing Bugs:</b> If something doesn\u2019t work right
+          in your game, you can go back to the Scene View to fix it and then return
+          to the Game View to see if you\u2019ve made it better. It's like making
+          sure your toy car\u2019s wheels roll smoothly before showing it to your
+          friends.\n\n- <b>Full-Screen Fun:</b> You can make the Game View full screen
+          to get the real feel of playing your game, just like you would on your
+          computer, phone, or console.\n\n<b>Why It\u2019s Awesome:</b>\n- <b>Instant
+          Feedback:</b> The Game View shows you right away how your game is working,
+          so you know what to change or keep.\n- <b>Just Like Real:</b> It\u2019s
+          the place where your game comes to life and starts to look like a real
+          game that people can play.\n- <b>Experiment and Play:</b> You get to try
+          out your ideas, make changes, and have fun watching your game grow step
+          by step!\n\nThe Unity Game View is where you get to see your game come
+          alive and test out all the cool things you\u2019ve created. It\u2019s like
+          the big screen where your game becomes a reality!\n"
+      m_Tutorial: {fileID: 0}
+      m_Image: {fileID: 0}
+      m_Video: {fileID: 0}
+      m_CriteriaCompletion: 0
+      m_Criteria:
+        m_Items: []
+      m_MaskingSettings:
+        m_MaskingEnabled: 0
+        m_UnmaskedViews: []
+      m_Summary: 
+      m_Description: 
+      m_InstructionBoxTitle: 
+      m_InstructionText: 
+      m_TutorialButtonText: 
+  m_CameraSettings:
+    m_CameraMode: 0
+    m_FocusMode: 0
+    m_Orthographic: 0
+    m_Size: 0
+    m_Pivot: {x: 0, y: 0, z: 0}
+    m_Rotation: {x: 0, y: 0, z: 0, w: 0}
+    m_FrameObject:
+      m_SceneGuid: 
+      m_GameObjectGuid: 
+      m_SerializedComponentType:
+        m_TypeName: 
+      m_ComponentIndex: 0
+      m_AssetObject: {fileID: 0}
+      m_Prefab: {fileID: 0}
+    m_Enabled: 0
+  NextButton:
+    m_Untranslated: Next
+  DoneButton:
+    m_Untranslated: Done
+  m_CompletedSound: {fileID: 0}
+  m_AutoAdvance: 0
+  Showing:
+    m_PersistentCalls:
+      m_Calls: []
+  Shown:
+    m_PersistentCalls:
+      m_Calls: []
+  Staying:
+    m_PersistentCalls:
+      m_Calls: []
+  CriteriaValidated:
+    m_PersistentCalls:
+      m_Calls: []
+  MaskingSettingsChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  NonMaskingSettingsChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnBeforePageShown:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnAfterPageShown:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnTutorialPageStay:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnBeforeTutorialQuit:
+    m_PersistentCalls:
+      m_Calls: []
+  m_NextButton: Next
+  m_DoneButton: Done
